@@ -22,7 +22,7 @@ To predict the presence of heart disease (**0 = No Disease, 1 = Disease**) using
 - Handled missing values using median imputation  
 
 ### 2️⃣ Exploratory Data Analysis (EDA)
-- Target variable distribution analysis  
+ Target variable distribution analysis  
 - Correlation heatmap to identify important relationships  
 - Feature-wise statistical analysis  
 
